@@ -15,7 +15,7 @@ public class Main {
 
         float average = sum / ct;
 
-        System.out.println("Test");
+        System.out.println("Test123");
 
         System.out.println(average);
 
